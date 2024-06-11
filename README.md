@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JamersonCarlos&show_icons=true&theme=tokyonight)
 
-### Tecnologias que eu uso no meu dia 👨🏽‍💻
+### Tecnologias que eu uso no meu dia a dia👨🏽‍💻
 <div style="display: inline_block">
     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
